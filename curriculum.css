@@ -1,0 +1,78 @@
+body {
+  display: flex;
+  background-image:url(fondoborroso.avif);
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  padding-left: 150px;
+  font-size: larger;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  padding-top: 50px;
+}
+
+#div1{
+  border: double; 
+  padding-top: 45px;
+}
+
+#div2{
+  margin-top: 50px;
+  margin-left: 0px;
+  border-left-width: 3px;
+  padding-right: 40px;
+  padding-left: 40px;
+  border: double;
+}
+
+#section1{
+  border: double;
+  padding-left: 50px;
+  margin-top: 7px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-top: 15px;
+  font-size: 24px;
+  margin-bottom: 2px;
+}
+
+h3{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type:disclosure-closed;
+}
+
+main{
+  border-left:solid black;
+  width: 1200px;
+  padding-left: 100px;
+  margin-left: 60px;
+}
+
+#boton1{
+  width: 15%;
+  background-color: aliceblue;
+  color: blueviolet;
+}
+
+#boton2{
+  width: 15%;
+  background-color: aliceblue;
+  color:rgb(97, 30, 123) ;
+}
+
